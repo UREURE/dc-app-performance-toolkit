@@ -305,7 +305,7 @@
    "browse_boards": "2",
    "standalone_extension": "0",
    "custom_dataset_query": null,
-   "TAURUS_ARTIFACTS_DIR": "/dc-app-performance-toolkit/app/results/jira/2020-12-16_19-09-31"
+   "TAURUS_ARTIFACTS_DIR": "/dc-app-performance-toolkit/app/results/jira/2020-12-17_22-05-36"
   },
   "artifacts-dir": "results/jira/%Y-%m-%d_%H-%M-%S",
   "verbose": false
@@ -321,7 +321,7 @@
   {
    "data-source": "sample-labels",
    "module": "junit-xml",
-   "filename": "/dc-app-performance-toolkit/app/results/jira/2020-12-16_19-09-31/xunit.xml"
+   "filename": "/dc-app-performance-toolkit/app/results/jira/2020-12-17_22-05-36/xunit.xml"
   }
  ],
  "services": [

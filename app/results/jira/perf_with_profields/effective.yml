@@ -206,7 +206,7 @@ reporting:
 - module: final-stats
 - module: console
 - data-source: sample-labels
-  filename: /dc-app-performance-toolkit/app/results/jira/2020-12-16_19-09-31/xunit.xml
+  filename: /dc-app-performance-toolkit/app/results/jira/2020-12-17_22-05-36/xunit.xml
   module: junit-xml
 scenarios:
   jmeter:
@@ -265,7 +265,7 @@ settings:
     JMETER_VERSION: 5.2.1
     LANGUAGE: en_US.utf8
     OBJC_DISABLE_INITIALIZE_FORK_SAFETY: 'YES'
-    TAURUS_ARTIFACTS_DIR: /dc-app-performance-toolkit/app/results/jira/2020-12-16_19-09-31
+    TAURUS_ARTIFACTS_DIR: /dc-app-performance-toolkit/app/results/jira/2020-12-17_22-05-36
     WEBDRIVER_VISIBLE: 'False'
     add_comment: '2'
     admin_login: admin
