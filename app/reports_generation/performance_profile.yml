@@ -5,7 +5,7 @@ runs:
   - runName: "without app"
     fullPath: "/home/ubuntu/dc-app-performance-toolkit/app/results/jira/perf_without_app"
   - runName: "with app"
-    fullPath: "/home/ubuntu/dc-app-performance-toolkit/app/results/jira/perf_with_profields"
+    fullPath: "/home/ubuntu/dc-app-performance-toolkit/app/results/jira/perf_with_profields_m54xlarge"
 
 # Chart generation config
 index_col: "Action"
